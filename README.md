@@ -1,2 +1,2 @@
 # personal-website
-My secend HTML/CSS project
+My second HTML/CSS project
